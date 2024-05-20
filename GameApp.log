@@ -1,0 +1,20 @@
+мая 21, 2024 12:32:36 AM org.example.GameApp <init>
+INFO: GameApp object created
+мая 21, 2024 12:32:36 AM org.example.GameApp initializePoints
+INFO: Points initialized to zero
+мая 21, 2024 12:32:36 AM org.example.GameApp start
+INFO: Points initialized
+мая 21, 2024 12:32:44 AM org.example.GameApp start
+INFO: Zombie name entered: Gsdgfsdf
+мая 21, 2024 12:32:44 AM org.example.GameApp ZombieDescription
+INFO: Zombie description displayed
+мая 21, 2024 12:32:55 AM org.example.GameApp chooseZombieType
+INFO: Zombie type chosen: 2, powerPoints: 2
+мая 21, 2024 12:32:55 AM org.example.GameApp start
+INFO: Zombie type chosen: 2
+мая 21, 2024 12:32:55 AM org.example.GameApp BonusDescription
+INFO: Bonus description displayed
+мая 21, 2024 12:32:58 AM org.example.GameApp updatePoints
+INFO: Points updated: powerPoints=3, speedPoints=0, agilityPoints=0
+мая 21, 2024 12:32:58 AM org.example.GameApp start
+INFO: Bonus type chosen: 1
